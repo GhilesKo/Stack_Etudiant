@@ -1,0 +1,42 @@
+.header{
+    margin-top: 25px;
+
+}
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu_nav{
+    display: flex;
+  column-gap: 50px;
+    list-style-type: none;
+
+
+}
+
+.header_menu_options{
+
+    display: flex;
+    column-gap: 20px;
+    list-style-type: none;
+
+}
+
+.header_menu_options{
+ align-items: center;
+}
+.btnCompte{
+    padding: 12px;
+    background-color: #2625BF;
+    color: white;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+ul li{
+
+    cursor: pointer;
+
+}
+
